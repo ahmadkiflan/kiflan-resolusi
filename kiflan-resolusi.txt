@@ -1,4 +1,4 @@
 KIFLAN RESOLUSI
-- Belajar PHP
 - Ikut Kursus Laravel di WPU Course
 - Ikut kursus MERN Stack di WPU Course
+- Belajar Golang
