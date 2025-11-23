@@ -4,4 +4,4 @@ E-Commerce
 ^ Laravel
 ^ Pyton
 Portfolio
-^ React
+^ Angular
